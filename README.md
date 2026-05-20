@@ -122,6 +122,12 @@ telegrambot/
 
 ---
 
+## 🤖 Инструменты
+
+Бот и документация разработаны с помощью [Claude Sonnet 4.6](https://claude.ai) (Anthropic).
+
+---
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d0800,50:7c3000,100:0d0800&section=footer&animation=fadeIn" width="100%" />
 </div>
